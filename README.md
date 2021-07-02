@@ -5,7 +5,7 @@
 <h4> 个人信息: </h4>
 
   - [博客](https://wwwpppfffzzz.github.io/)
-  - [邮箱](wangpf2051@gmail.com) 
+  - 邮箱：wangpf2051@gmail.com
 
 
 -----
