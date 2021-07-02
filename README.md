@@ -1,20 +1,11 @@
-### Hey，我是 Wangpf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2>Hi, I'm Wangpf! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>一个无趣的普通人. </em>
 
-Hello, 我是 [Wangpf](https://juejin.cn/user/2849570008611575)，一位无聊的普通人
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 Ask me about anything, I am happy to help;
+<h4> 个人信息: </h4>
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-**技术栈 与 开发工具**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/likaia/likaia/main/webstorm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/likaia/likaia/main/typescript.png"></code>
+  - [博客](https://wwwpppfffzzz.github.io/)
+  - [邮箱](wangpf2051@gmail.com) 
 
 
-
+-----
