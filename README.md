@@ -1,9 +1,8 @@
 ### Hey，我是 Wangpf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hello, 我是 [Wangpf](https://juejin.cn/user/2849570008611575)，一位无聊的普通人
-- 我的邮箱： wangpf2051@gmail.com
-- (个人博客)[https://wwwpppfffzzz.github.io/]
-- 
+- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 Ask me about anything, I am happy to help;
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
