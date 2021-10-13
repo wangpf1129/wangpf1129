@@ -2,7 +2,8 @@
 <br />
 一位前端小白~
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
-- 📫 [我的邮箱](wangpf2051@gamil.com);
+
+- 📫 我的邮箱: [wangpf2051@gamil.com](wangpf2051@gamil.com);
 - 📝 [我的博客](https://wwwpppfffzzz.github.io/)
 
 **技术栈 与 开发工具:**
