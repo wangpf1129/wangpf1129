@@ -1,9 +1,18 @@
-<h2>Hi, I'm Wangpf! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<p><em>一个无趣的普通人. </em>
- <img align='right' src="https://spotlights-feed.github.com/spotlights/game-off-2021/game-off-2021.gif" width="230" />
-<h4> 个人信息: </h4>
+### Hey，我是wangpf! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  - [博客](https://wwwpppfffzzz.github.io/)
-  - 邮箱：wangpf2051@gmail.com
-   </p
------
+<br />
+
+你好，。
+
+  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+
+- 📫 我的邮箱: [wangpf2051@gamil.com](wangpf2051@gamil.com);
+- 📝 [我的博客](https://wwwpppfffzzz.github.io/)
+
+**技术栈 与 开发工具:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png"></code>
