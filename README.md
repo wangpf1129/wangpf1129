@@ -4,8 +4,9 @@
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 - 🔭 I’m currently working as a Front-end Developer in BeiJing, China
-- 📫:This is my mailbox[wangpf2051@gamil.com](wangpf2051@gamil.com);
-- 📝 [My blog](https://wwwpppfffzzz.github.io/)
+- 📫:This is my mailbox: (wangpf2051@gamil.com)
+- 📝:This is my blog: (https://wwwpppfffzzz.github.io/)
+- 🌱 I’m currently learning Typescript/Vue3
 
 **技术栈 与 开发工具:**
 
