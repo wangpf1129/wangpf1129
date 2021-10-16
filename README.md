@@ -5,9 +5,9 @@
 - 🔭 I’m currently working as a Front-end Developer in Beijing
 - 📫:This is my mailbox: (wangpf2051@gamil.com)
 - 📝:This is my blog: (https://wwwpppfffzzz.github.io/)
-- 🌱 I’m currently learning Typescript/Vue3
+- 🌱:I’m currently learning Typescript/Vue3
 
-**技术栈 与 开发工具:**
+**technology stack and development tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png"></code>
