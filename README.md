@@ -1,9 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey！I'm Wangpf!.
 <br />
-一位前端小白~
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 🔭 I’m currently working as a Front-end Developer in BeiJing, China
+- 🔭 I’m currently working as a Front-end Developer in Beijing
 - 📫:This is my mailbox: (wangpf2051@gamil.com)
 - 📝:This is my blog: (https://wwwpppfffzzz.github.io/)
 - 🌱 I’m currently learning Typescript/Vue3
