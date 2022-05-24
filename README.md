@@ -3,8 +3,6 @@
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 - 🔭 I’m currently working as a Front-end Developer in Beijing
-- 📫:This is my mailbox: (wangpf2051@gamil.com)
-- 📝:This is my blog: (https://wwwpppfffzzz.github.io/)
 - 🌱:I’m currently use Typescript/Vue3 at work
 
 **technology stack and development tools:**
