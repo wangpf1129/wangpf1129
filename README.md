@@ -2,8 +2,8 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 🔭 I’m currently working as a Front-end Developer in Beijing
-- 🌱:I’m currently use Typescript/Vue3 at work
+🔭 I’m currently working as a Front-end Developer in Beijing
+🌱:I’m currently use Typescript/Vue3 at work
 
 **technology stack and development tools:**
 
