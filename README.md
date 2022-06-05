@@ -1,8 +1,9 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Hey！I'm Wangpf!.
+### Hey！I'm Wangpf!.
 <br />
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
  🔭 I’m currently working as a Front-end Developer in Beijing
+ <br />
  🌱:I’m currently use Typescript/Vue3 at work
 
 **technology stack and development tools:**
