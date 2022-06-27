@@ -20,7 +20,7 @@
 ## 🍁 &nbsp;My Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wangpf1129&show_icons=true&theme=tokyonight" alt="Wangpf' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangpf1129&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=antfu&show_icons=true&theme=tokyonight" alt="Wangpf' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antfu&layout=compact&theme=tokyonight" />
 </div>
 
