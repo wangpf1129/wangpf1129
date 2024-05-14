@@ -20,7 +20,7 @@ jobs:
           SHOW_TITLE: true # optional
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: typescript # optional
-          TIME_RANGE: last_year # optional
+          TIME_RANGE: last_7_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
