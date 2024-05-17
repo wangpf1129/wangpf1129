@@ -24,15 +24,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 5 hrs 48 mins
+Total Time: 9 hrs 46 mins
 
-TypeScript   3 hrs 16 mins   ██████████████░░░░░░░░░░░   56.57 %
-CSS          1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-Markdown     24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-YAML         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-SSH Key      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   6 hrs 33 mins   ████████████████▓░░░░░░░░   67.01 %
+CSS          2 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+SSH Key      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
