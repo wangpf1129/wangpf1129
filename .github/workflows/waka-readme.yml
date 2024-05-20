@@ -33,6 +33,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Wangpf # optional
-          AUTHOR_EMAIL: wangpf2051@gmail.com # optional
+          # AUTHOR_NAME: Wangpf # optional
+          # AUTHOR_EMAIL: wangpf2051@gmail.com # optional
           # you can populate email-id with secretes instead
