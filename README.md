@@ -24,14 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 12 hrs 47 mins
+Total Time: 9 hrs 51 mins
 
-TypeScript   12 hrs 37 mins  ████████████████████████▓   98.66 %
-SSH Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   9 hrs 41 mins   ████████████████████████▓   98.20 %
+SSH Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
