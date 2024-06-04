@@ -24,12 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 26 May 2024 - To: 02 June 2024
+From: 27 May 2024 - To: 03 June 2024
 
-Total Time: 8 hrs 37 mins
+Total Time: 8 hrs 11 mins
 
-TypeScript   8 hrs 37 mins   █████████████████████████   99.87 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   8 hrs 10 mins   █████████████████████████   99.86 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
