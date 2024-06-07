@@ -24,12 +24,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 6 hrs 2 mins
+Total Time: 4 hrs 28 mins
 
-TypeScript   6 hrs 2 mins    █████████████████████████   99.84 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   3 hrs 18 mins   ██████████████████▒░░░░░░   73.91 %
+Bash         1 hr 9 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
