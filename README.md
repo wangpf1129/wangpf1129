@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
 Total Time: 5 hrs 56 mins
 
 TypeScript   3 hrs 46 mins   ███████████████▓░░░░░░░░░   63.02 %
-Bash         1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-CSS          34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Bash         1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+CSS          34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
 JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
