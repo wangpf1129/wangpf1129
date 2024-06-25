@@ -19,7 +19,7 @@
 <code><img height="20" src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://zod.dev/logo.svg"></code>&nbsp;
-<code><img height="20" src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg"></code>&nbsp;
+<code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>&nbsp;
 
 
 ### 📊 **Weekly development breakdown**
