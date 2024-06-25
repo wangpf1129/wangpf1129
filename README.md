@@ -1,7 +1,7 @@
 ### 🦸🏻‍♂️ &nbsp;About Me
 
 <p>👋 &nbsp;Hi I'm Wangpf </p>
-<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue ecological &nbsp; ✨</p>
+<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 &nbsp; ✨</p>
 
 [📖 &nbsp;Blog](https://blog.wangpf.wang)
 &nbsp;|&nbsp;
