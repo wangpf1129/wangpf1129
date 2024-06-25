@@ -9,6 +9,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<code><img height="20" src="https://www.vim.org/images/vim_shortcut.ico"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
@@ -17,8 +18,8 @@
 <code><img height="20" src="https://nuxt.com/assets/design-kit/icon-green.svg"></code>&nbsp;
 <code><img height="20" src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
-<code><img height="20" src="https://www.vim.org/images/vim_shortcut.ico"></code>&nbsp;
 <code><img height="20" src="https://zod.dev/logo.svg"></code>&nbsp;
+<code><img height="20" src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg"></code>&nbsp;
 
 
 ### 📊 **Weekly development breakdown**
