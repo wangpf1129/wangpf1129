@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 25 June 2024 - To: 02 July 2024
+From: 26 June 2024 - To: 03 July 2024
 
-Total Time: 19 hrs 33 mins
+Total Time: 16 hrs 34 mins
 
-Dart         13 hrs          ████████████████▓░░░░░░░░   66.25 %
-TypeScript   3 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-YAML         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Docker       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Dart         12 hrs 46 mins  ███████████████████▒░░░░░   76.77 %
+YAML         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+TypeScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+SSH Config   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
