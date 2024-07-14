@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 05 July 2024 - To: 12 July 2024
+From: 06 July 2024 - To: 13 July 2024
 
 Total Time: 18 hrs 15 mins
 
