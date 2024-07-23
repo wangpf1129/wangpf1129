@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 14 July 2024 - To: 21 July 2024
+From: 15 July 2024 - To: 22 July 2024
 
-Total Time: 19 hrs 49 mins
+Total Time: 19 hrs 44 mins
 
-TypeScript    16 hrs 45 mins  █████████████████████░░░░   84.30 %
-YAML          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Vue.js        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-JavaScript    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript   17 hrs 25 mins  ██████████████████████░░░   88.27 %
+Vue.js       44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
