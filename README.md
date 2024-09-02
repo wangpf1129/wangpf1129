@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-Total Time: 32 hrs 30 mins
+Total Time: 32 hrs 32 mins
 
-TypeScript    31 hrs 21 mins  ████████████████████████░   96.46 %
+TypeScript    31 hrs 22 mins  ████████████████████████░   96.41 %
 JSON          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 JavaScript    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-HTML          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Bash          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
