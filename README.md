@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 31 October 2024 - To: 07 November 2024
+From: 01 November 2024 - To: 08 November 2024
 
-Total Time: 7 hrs 41 mins
+Total Time: 7 hrs 18 mins
 
-TypeScript   7 hrs 6 mins    ███████████████████████░░   92.12 %
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   6 hrs 20 mins   █████████████████████▓░░░   86.44 %
+XML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
