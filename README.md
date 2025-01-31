@@ -27,12 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-Total Time: 4 hrs 29 mins
+Total Time: 4 hrs 22 mins
 
-TypeScript   4 hrs 29 mins   █████████████████████████   99.91 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   4 hrs 22 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
