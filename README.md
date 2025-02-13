@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 04 February 2025 - To: 11 February 2025
+From: 05 February 2025 - To: 12 February 2025
 
-Total Time: 8 hrs 31 mins
+Total Time: 12 hrs 30 mins
 
-Vue.js        5 hrs 47 mins   █████████████████░░░░░░░░   68.01 %
-TypeScript    1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Bash          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Text          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Vue.js        9 hrs 44 mins   ███████████████████▒░░░░░   77.87 %
+TypeScript    1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Bash          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Text          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
