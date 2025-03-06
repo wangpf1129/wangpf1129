@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 25 February 2025 - To: 04 March 2025
+From: 26 February 2025 - To: 05 March 2025
 
-Total Time: 6 hrs 55 mins
+Total Time: 3 hrs 46 mins
 
-Vue.js        4 hrs 45 mins   █████████████████░░░░░░░░   68.57 %
-Dart          1 hr 38 mins    ██████░░░░░░░░░░░░░░░░░░░   23.62 %
-TypeScript    24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Vue.js       3 hrs 21 mins   ██████████████████████▒░░   89.17 %
+TypeScript   24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Dart         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
