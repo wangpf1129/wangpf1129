@@ -3,7 +3,7 @@
 <p>👋 &nbsp;Hi I'm Wangpf </p>
 <p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 &nbsp; ✨</p>
 
-[📖 &nbsp;Blog](https://blog.wangpf.wang)
+[📖 &nbsp;Blog](https://imwangpf.com/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Issues](https://github.com/wangpf1129/wangpf1129/issues)
 
