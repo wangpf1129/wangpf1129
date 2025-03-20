@@ -27,15 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 11 March 2025 - To: 18 March 2025
+From: 12 March 2025 - To: 19 March 2025
 
-Total Time: 20 hrs
+Total Time: 19 hrs 14 mins
 
-Dart          15 hrs          ██████████████████▓░░░░░░   74.25 %
-TypeScript    2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Vue.js        1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-HTML          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Other         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Dart          15 hrs 1 min    ███████████████████▓░░░░░   78.05 %
+Vue.js        1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+TypeScript    1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+HTML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
