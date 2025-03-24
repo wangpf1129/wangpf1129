@@ -16,10 +16,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
 <code><img height="20" src="https://nextjs.org/favicon.ico"></code>&nbsp;
 <code><img height="20" src="https://nuxt.com/assets/design-kit/icon-green.svg"></code>&nbsp;
-<code><img height="20" src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png"></code>&nbsp;
+<code><img height="20" src="https://favicon.im/tanstack.com?larger=true"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://zod.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>&nbsp;
+<code><img height="20" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"></code>&nbsp;
 
 
 ### 📊 **Weekly development breakdown**
