@@ -20,6 +20,8 @@
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://zod.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>&nbsp;
+<code><img height="20" src="https://www.prisma.io/images/favicon-32x32.png"></code>&nbsp;
+<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>&nbsp;
 <code><img height="20" src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"></code>&nbsp;
 
 
