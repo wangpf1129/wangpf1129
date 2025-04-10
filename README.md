@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 11 hrs 19 mins
+Total Time: 9 hrs 2 mins
 
-TypeScript    9 hrs 1 min     ████████████████████░░░░░   79.57 %
-Image (svg)   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-CSS           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript    7 hrs 13 mins   ████████████████████░░░░░   79.66 %
+TSConfig      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Git Config    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
