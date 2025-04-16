@@ -30,13 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Total Time: 15 hrs 54 mins
+Total Time: 17 hrs 43 mins
 
-TypeScript   12 hrs 42 mins  ███████████████████▓░░░░░   79.31 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript   14 hrs 43 mins  ████████████████████▓░░░░   82.55 %
+Docker       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
