@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 17 hrs 46 mins
+Total Time: 19 hrs 28 mins
 
-TypeScript   13 hrs 36 mins  █████████████████▓░░░░░░░   70.93 %
-Other        1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+TypeScript    15 hrs 17 mins  ██████████████████▒░░░░░░   73.20 %
+Other         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
