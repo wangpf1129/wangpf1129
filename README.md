@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
-Total Time: 2 hrs 18 mins
+Total Time: 1 hr 4 mins
 
-TypeScript    2 hrs 7 mins    ███████████████████████░░   91.72 %
-JavaScript    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Bash          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-XML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Text          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript    58 mins         ██████████████████████▓░░   90.53 %
+JavaScript    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+XML           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Bash          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
