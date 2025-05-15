@@ -30,14 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Total Time: 13 hrs 45 mins
+Total Time: 12 hrs 29 mins
 
-TypeScript    12 hrs 58 mins  ███████████████████████▓░   94.37 %
-Svelte        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Vue.js        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript    12 hrs          ████████████████████████░   96.07 %
+Vue.js        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 JavaScript    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+HTML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
