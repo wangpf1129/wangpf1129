@@ -30,14 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
-Total Time: 22 hrs 21 mins
+Total Time: 21 hrs 48 mins
 
-TypeScript        16 hrs 43 mins  ██████████████████▓░░░░░░   74.36 %
-Dart              1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JavaScript        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Bash              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript        16 hrs 11 mins  ██████████████████▒░░░░░░   73.82 %
+Dart              1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JavaScript        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Bash              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
