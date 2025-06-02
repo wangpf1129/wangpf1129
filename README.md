@@ -30,11 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 1 hr 25 mins
+Total Time: 1 hr 50 mins
 
-TypeScript   1 hr 25 mins    █████████████████████████   100.00 %
+TypeScript   1 hr 49 mins    ████████████████████████▓   99.03 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
