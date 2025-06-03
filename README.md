@@ -18,7 +18,7 @@
 <code><img height="20" src="https://nuxt.com/assets/design-kit/icon-green.svg"></code>&nbsp;
 <code><img height="20" src="https://favicon.im/tanstack.com?larger=true"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
-<code><img height="20" src="https://zod.dev/logo.svg"></code>&nbsp;
+<code><img height="20" src="https://zod.dev/logo/logo.png"></code>&nbsp;
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>&nbsp;
 <code><img height="20" src="https://www.prisma.io/images/favicon-32x32.png"></code>&nbsp;
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>&nbsp;
