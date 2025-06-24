@@ -30,13 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 2 hrs 57 mins
 
-TypeScript    52 mins         ██████████▒░░░░░░░░░░░░░░   40.76 %
-Bash          15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Other         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+TypeScript    1 hr 39 mins    █████████████▒░░░░░░░░░░░   52.93 %
+Other         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
