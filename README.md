@@ -30,14 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
-Total Time: 3 hrs 58 mins
+Total Time: 5 hrs 52 mins
 
-TypeScript    3 hrs 17 mins   ████████████████████▓░░░░   82.82 %
-CSS           25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-TSConfig      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript    4 hrs 48 mins   ████████████████████▒░░░░   81.78 %
+CSS           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+TSConfig      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
