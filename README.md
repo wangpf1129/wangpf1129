@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 12 hrs 41 mins
+Total Time: 12 hrs 51 mins
 
-TypeScript    10 hrs 19 mins  ████████████████████░░░░░   80.62 %
-HTML          2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript    10 hrs 29 mins  ████████████████████▒░░░░   80.87 %
+HTML          2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
