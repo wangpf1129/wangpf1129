@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 6 hrs 41 mins
+Total Time: 7 hrs 15 mins
 
-JavaScript   4 hrs 22 mins   ████████████░░░░░░░░░░░░░   48.65 %
-Other        2 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+JavaScript   4 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.68 %
+Other        2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
 ```
 
 <!--END_SECTION:waka-->
