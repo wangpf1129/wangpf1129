@@ -30,14 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 25 January 2026 - To: 01 February 2026
+From: 26 January 2026 - To: 02 February 2026
 
-Total Time: 28 hrs 12 mins
+Total Time: 26 hrs 36 mins
 
-TypeScript   24 hrs 44 mins  ██████████████████████░░░   87.44 %
-Dart         1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Markdown     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript        20 hrs 16 mins  ██████████████████▓░░░░░░   74.22 %
+Markdown          2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Dart              1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Other             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
