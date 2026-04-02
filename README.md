@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 14 hrs 48 mins
+Total Time: 15 hrs 18 mins
 
-Markdown     4 hrs 47 mins         ████████░░░░░░░░░░░░░░░░░   32.03 %
-Swift        3 hrs 9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-TypeScript   2 hrs 44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-CSS          2 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Dart         43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Markdown     4 hrs 32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+Swift        3 hrs 9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+TypeScript   3 hrs 4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+CSS          2 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Dart         1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
