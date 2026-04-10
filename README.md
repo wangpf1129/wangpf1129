@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 4 hrs 44 mins
+Total Time: 1 hr 54 mins
 
-Other         2 hrs 36 mins         █████████░░░░░░░░░░░░░░░░   35.53 %
+Other        1 hr 57 mins          ████████████▓░░░░░░░░░░░░   50.70 %
 ```
 
 <!--END_SECTION:waka-->
