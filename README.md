@@ -30,11 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 April 2026 - To: 14 April 2026
+From: 08 April 2026 - To: 15 April 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 56 mins
 
-No activity tracked
+TypeScript   2 hrs 4 mins          █████████████░░░░░░░░░░░░   51.52 %
+Markdown     1 hr 11 mins          ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Dart         28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
