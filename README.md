@@ -30,14 +30,14 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
-Total Time: 11 hrs 57 mins
+Total Time: 7 hrs 37 mins
 
-TypeScript   5 hrs 29 mins         ██████████▒░░░░░░░░░░░░░░   41.20 %
-Markdown     2 hrs 59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-Python       1 hr 34 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Other        1 hr 23 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+TypeScript   2 hrs 53 mins         ████████▒░░░░░░░░░░░░░░░░   33.48 %
+Markdown     1 hr 49 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Python       1 hr 34 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+Other        1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
 ```
 
 <!--END_SECTION:waka-->
