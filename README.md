@@ -30,14 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Total Time: 24 hrs 4 mins
+Total Time: 20 hrs 36 mins
 
-JavaScript    10 hrs 53 mins        ██████████▓░░░░░░░░░░░░░░   42.55 %
-Markdown      7 hrs 50 mins         ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-Vue           1 hr 50 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Other         1 hr 30 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+JavaScript    10 hrs 51 mins        ████████████░░░░░░░░░░░░░   48.38 %
+Markdown      5 hrs 9 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+Other         1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
 ```
 
 <!--END_SECTION:waka-->
