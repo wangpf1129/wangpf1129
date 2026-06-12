@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-Total Time: 21 hrs 19 mins
+Total Time: 41 hrs 19 mins
 
-JavaScript   7 hrs 8 mins          ████████░░░░░░░░░░░░░░░░░   32.27 %
-TypeScript   6 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   27.78 %
-Markdown     3 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-CSS          2 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Vue          1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TypeScript    16 hrs 9 mins         █████████▓░░░░░░░░░░░░░░░   38.37 %
+JavaScript    9 hrs 52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+CSS           6 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Markdown      6 hrs 21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Other         48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
