@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 27 July 2026 - To: 03 August 2026
+From: 28 July 2026 - To: 04 August 2026
 
-Total Time: 17 hrs 41 mins
+Total Time: 15 hrs 21 mins
 
-Markdown     10 hrs 39 mins        ███████████████░░░░░░░░░░   60.20 %
-JavaScript   5 hrs 29 mins         ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-Vue          50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Dart         36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Git          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown     6 hrs 33 mins         ██████████▓░░░░░░░░░░░░░░   42.66 %
+JavaScript   6 hrs 2 mins          █████████▓░░░░░░░░░░░░░░░   39.33 %
+Dart         1 hr 56 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Vue          33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Git          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
