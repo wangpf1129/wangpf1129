@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-Total Time: 8 hrs 36 mins
+Total Time: 5 hrs 56 mins
 
-Other        5 hrs 28 mins         █████████▓░░░░░░░░░░░░░░░   38.93 %
+Other        3 hrs 23 mins         █████████░░░░░░░░░░░░░░░░   36.32 %
 ```
 
 <!--END_SECTION:waka-->
